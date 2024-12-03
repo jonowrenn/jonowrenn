@@ -21,7 +21,6 @@
 ---
 
 ## 📈 GitHub Stats
-![Jonathan's GitHub stats] 
 
 ---
 
