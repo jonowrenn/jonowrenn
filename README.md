@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Jonathan Wrenn! 👋
 
-<!--
-**jonowrenn/jonowrenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science and Math student at Columbia University**  
+💻 **Aspiring Software Enginner and AI/ML Engineer**  
+🚀 **Passionate about AI, startups, and innovative technology**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm Working On
+- Machine learning projects, like **Gradient Descent Optimization**
+- SaaS platform for automotive shops
+- Personal projects in Java and Python
+
+---
+
+## 🌟 Skills & Tools
+- **Languages:** Python, Java, Javascript
+- **Technologies:** TensorFlow, AWS, Git
+- **Interests:** AI/ML, software engineering, and system design
+
+---
+
+## 📈 GitHub Stats
+![Jonathan's GitHub stats] 
+
+---
+
+## 📌 Pinned Repositories
+
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jonathanwrenn218/)
+- [Portfolio Website](https://jonathanwrenn.com)
+- [Email](jw4544@columbia.edu)
