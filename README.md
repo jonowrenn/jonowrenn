@@ -25,15 +25,6 @@
 
 ---
 
-## 📌 Pinned Repositories
-- [E-Commerce Project](https://github.com/melville1/coolbeans) 
-  *E-Commerce Website for a Coffee Shop.*
-  
-- [API Weather APP](https://github.com/jonowrenn/weather-app.github.io)
-  *A program to collect weather data and display it.*
-
----
-
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jonathanwrenn218/)
 - [Portfolio Website](https://jonathanwrenn.com)
