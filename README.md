@@ -7,8 +7,7 @@
 ---
 
 ## 🔭 What I'm Working On
-- Machine learning projects, like **Gradient Descent Optimization**
-- SaaS platform for automotive shops
+- Machine learning projects
 - Personal projects in Java and Python
 
 ---
